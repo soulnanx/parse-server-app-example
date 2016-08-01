@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Push</string>
+    <string name="gcm_defaultSenderId">571913720771</string>
+</resources>
